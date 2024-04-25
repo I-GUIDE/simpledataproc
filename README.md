@@ -1,0 +1,1 @@
+Launch Notebook: https://jupyter.iguide.illinois.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FI-GUIDE%2Fsimpledataproc&urlpath=lab%2Ftree%2Fsimpledataproc%2FSIMPLE_G.ipynb+&branch=main
