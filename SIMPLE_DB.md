@@ -17,11 +17,12 @@ The database generated from this tool is compatible with the version 3.0 of the 
 #### 1. Generating the standard database
 
 To generate the standard database, users need to specify the years of the *start_year* and *end_year* in the code below. Note that errors will occur for years which are not available from FAOSTAT. Please check FAOSTAT for the latest year available.
-
+```python
 start_year = "2015"
 end_year = "2020"
 params_simple_data_proc = {"start_year": start_year, "end_year": end_year} 
 params_simple_data_proc
+```
 
 #### 2. Changing economic shares, parameters and other key inputs
 
